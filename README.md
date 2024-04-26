@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelSG96 (Manuel Sánchez García).
 - 👀 I’m interested in code applied to aerospace engineering.
-- 🌱 I’m currently studing the Master's Degree in Aeronautical Engineering at UPM.
+- 🌱 I’m an aeronautic.
 - 💻 I work in Python, Fortan and Matlab.
 - 🧠 I would like to learn Julia and C.
 
